@@ -40,7 +40,7 @@
 <hr>
 <h2 id="male-infertility-testing-and-exseed-health-sperm-test-kit-your-route-to-better-count-and-motility">Male Infertility Testing and ExSeed Health Sperm Test Kit—Your Route to Better Count and Motility</h2>
 <h3 id="the-need-for-male-fertility-testing">The Need for Male Fertility Testing</h3>
-<p>When it comes to fertility, men often wonder: “Do I need a male fertility test?” or “Should I consider male infertility testing if we’re struggling to <strong>conceive</strong>?” A <a href="https://shop.exseedhealth.com/products/exseed-home-sperm-test-kit"><strong>male fertility sperm test</strong></a> is a convenient way to start your <strong>fertility journey</strong> without going straight to a clinic. It also helps determine if you need further testing or medical advice.</p>
+<p>When it comes to fertility, men often wonder: “Do I need a male fertility test?” or “Should I consider male infertility testing if we’re struggling to <strong>conceive</strong>?” A <a href="https://shop.exseedhealth.com/products/exseed-home-sperm-test-kit"><strong>male fertility test</strong></a> is a convenient way to start your <strong>fertility journey</strong> without going straight to a clinic. It also helps determine if you need further testing or medical advice.</p>
 <h3 id="how-the-exseed-sperm-test-kit-works">How the ExSeed Sperm Test Kit Works</h3>
 <ol>
 <li><strong>Collection</strong>: You collect a <strong>semen sample</strong> at home, making sure to follow the instructions on abstinence (two to seven days) and sample handling.</li>
