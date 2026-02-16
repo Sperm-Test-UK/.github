@@ -14,7 +14,7 @@
 <h4 id="the-role-of-male-fertility">The Role of Male Fertility</h4>
 <p>Male fertility is crucial for successful fertilisation, and sperm count, morphology, and motility all play a part. Low sperm count or poor motility <strong>may indicate</strong> problems that <strong>affect fertility</strong>. If you have fertility issues, it doesn’t automatically mean you won’t be able to conceive; rather, it can highlight the need for further tests and treatments or lifestyle adjustments to improve fertility. A semen analysis evaluates parameters such as sperm concentration, how many sperm per millilitre of semen there are, and how well they move (motility). These factors combine to give a clearer picture of your ability to conceive.</p>
 <hr>
-<h2 id="semen-analysis-and-male-fertility-test-the-basics-of-sperm-motility-and-concentration">Semen Analysis and Male Fertility Test—The Basics of Sperm Motility and Concentration</h2>
+<h2 id="semen-analysis-and-male-fertility-test-the-basics-of-sperm-motility-and-concentration">Semen Analysis and   Male Fertility Test—The Basics of Sperm Motility and Concentration</h2>
 <h3 id="what-is-a-sperm-test-">What Is a Sperm Test?</h3>
 <p>A sperm test is a way to measure various aspects of sperm health, including sperm count, motility, and morphology (the size and shape of sperm). Traditional methods usually involve providing a semen sample at a fertility clinic or hospital lab. However, advanced technology now makes it possible to take an <strong>at-home</strong> approach. This is where the ExSeed Sperm Test Kit comes in. It allows you to collect a sample in a private setting, then <strong>analyse</strong> its count and motility conveniently.</p>
 <h4 id="introducing-the-exseed-sperm-test-kit">Introducing the ExSeed Sperm Test Kit</h4>
@@ -40,7 +40,7 @@
 <hr>
 <h2 id="male-infertility-testing-and-exseed-health-sperm-test-kit-your-route-to-better-count-and-motility">Male Infertility Testing and ExSeed Health Sperm Test Kit—Your Route to Better Count and Motility</h2>
 <h3 id="the-need-for-male-fertility-testing">The Need for Male Fertility Testing</h3>
-<p>When it comes to fertility, men often wonder: “Do I need a male fertility test?” or “Should I consider male infertility testing if we’re struggling to <strong>conceive</strong>?” A <a href="https://shop.exseedhealth.com/products/exseed-home-sperm-test-kit"><strong>male fertility test</strong></a> is a convenient way to start your <strong>fertility journey</strong> without going straight to a clinic. It also helps determine if you need further testing or medical advice.</p>
+<p>When it comes to fertility, men often wonder: “Do I need a <a href="https://shop.exseedhealth.com/products/exseed-home-sperm-test-kit">male fertility test</a>?” or “Should I consider male infertility testing if we’re struggling to <strong>conceive</strong>?” A <a href="https://shop.exseedhealth.com/products/exseed-home-sperm-test-kit"><strong><a href="https://shop.exseedhealth.com/products/exseed-home-sperm-test-kit">male fertility test</a></strong></a> is a convenient way to start your <strong>fertility journey</strong> without going straight to a clinic. It also helps determine if you need further testing or medical advice.</p>
 <h3 id="how-the-exseed-sperm-test-kit-works">How the ExSeed Sperm Test Kit Works</h3>
 <ol>
 <li><strong>Collection</strong>: You collect a <strong>semen sample</strong> at home, making sure to follow the instructions on abstinence (two to seven days) and sample handling.</li>
